@@ -1,0 +1,145 @@
+[
+  {
+    "question": "Làm sao để xin nghỉ phép?",
+    "category": "Nghỉ phép",
+    "response": "Để xin nghỉ phép, bạn có thể làm theo các bước sau:\n\n📋 **Quy trình xin nghỉ phép:**\n1. **Sử dụng hệ thống e-leave** để đăng ký nghỉ phép online\n2. **Gửi email thông báo** cho manager và HR (có template mẫu)\n3. **Đảm bảo hoàn thành công việc** trước khi nghỉ\n\n⏰ **Thời gian thông báo:**\n- Nghỉ đột xuất: Thông báo ngay khi có thể\n- Nghỉ có kế hoạch: Thông báo trước ít nhất 1-2 ngày\n- Nghỉ dài ngày: Thông báo trước ít nhất 1 tuần\n\nBạn muốn tôi tìm thông tin chi tiết về quy định nghỉ phép không?"
+  },
+  {
+    "question": "Tôi có bao nhiêu ngày phép năm?",
+    "category": "Nghỉ phép",
+    "response": "Về số ngày phép năm, điều này phụ thuộc vào:\n\n📅 **Các yếu tố ảnh hưởng:**\n- Thời gian làm việc tại công ty\n- Loại hợp đồng (fulltime/parttime)\n- Chính sách cụ thể của từng năm\n\n💡 **Cách kiểm tra:**\n1. **Hệ thống e-leave**: Xem số ngày phép còn lại\n2. **Liên hệ HR**: Để biết thông tin chính xác\n3. **Xem hợp đồng lao động**: Quy định cụ thể\n\nTôi khuyên bạn nên liên hệ trực tiếp với bộ phận HR để có thông tin chính xác nhất về số ngày phép của bạn."
+  },
+  {
+    "question": "Lương được trả khi nào?",
+    "category": "Lương thưởng",
+    "response": "Về ngày trả lương:\n\n💰 **Thông tin chung:**\n- Thời gian trả lương được quy định cụ thể trong hợp đồng lao động\n- Thường sẽ có thông báo từ bộ phận Tài chính/HR\n\n📞 **Để biết chính xác:**\n1. **Kiểm tra hợp đồng lao động** của bạn\n2. **Liên hệ bộ phận HR** để xác nhận\n3. **Xem thông báo** từ công ty về lịch trả lương\n\nMỗi công ty có quy định khác nhau, vì vậy tôi khuyên bạn nên kiểm tra với HR để có thông tin chính xác nhất."
+  },
+  {
+    "question": "Làm thế nào để làm remote?",
+    "category": "Remote work",
+    "response": "Để làm việc remote, bạn cần làm theo quy trình sau:\n\n🏠 **Quy trình xin remote:**\n1. **Đăng ký trên hệ thống HR Partner** (nếu có)\n2. **Gửi email thông báo** cho manager và team\n3. **Đảm bảo kết nối internet** và thiết bị làm việc ổn định\n\n📋 **Lưu ý quan trọng:**\n- Cần approval từ manager trước\n- Phải đảm bảo hiệu quả công việc\n- Tham gia đầy đủ các meeting online\n- Báo cáo tiến độ công việc định kỳ\n\nBạn muốn tôi tìm thông tin chi tiết về chính sách remote work không?"
+  },
+  {
+    "question": "OT được tính như thế nào?",
+    "category": "Overtime",
+    "response": "Về tính toán giờ làm thêm (OT):\n\n⏰ **Nguyên tắc chung:**\n- OT cần được approve trước bởi manager\n- Có các loại OT khác nhau (có trả lương/đổi ngày nghỉ)\n- Thời gian tính OT thường từ sau giờ hành chính\n\n💡 **Các trường hợp OT:**\n1. **OT có trả lương**: Theo yêu cầu khách hàng\n2. **OT đổi ngày nghỉ**: Theo đề xuất của PM\n3. **OT khẩn cấp**: Xử lý sự cố, deadline\n\nĐể biết chính xác cách tính OT và quy định cụ thể, bạn nên tham khảo chính sách chi tiết hoặc liên hệ với HR."
+  },
+  {
+    "question": "Thiết bị làm việc được cấp gì?",
+    "category": "Thiết bị",
+    "response": "Về thiết bị làm việc:\n\n💻 **Thiết bị thông thường:**\n- Laptop/Desktop theo yêu cầu công việc\n- Phụ kiện cần thiết (chuột, bàn phím, tai nghe)\n- Tài khoản phần mềm cần thiết\n\n📋 **Quy trình nhận thiết bị:**\n1. **Làm đơn đề xuất** thiết bị cần thiết\n2. **Approval từ manager** và bộ phận IT\n3. **Ký biên bản bàn giao** thiết bị\n4. **Chịu trách nhiệm bảo quản** thiết bị\n\nChi tiết về loại thiết bị và quy trình cụ thể, bạn nên tham khảo chính sách thiết bị của công ty hoặc liên hệ bộ phận IT."
+  },
+  {
+    "question": "Vinova là công ty làm gì?",
+    "response": "Vinova là công ty tư vấn và phát triển IT có trụ sở chính tại Singapore, sở hữu hơn 15 năm kinh nghiệm, chuyên cung cấp các dịch vụ như phát triển mobile app, website, AI/ML, blockchain, IoT, ERP/CRM và nhiều giải pháp công nghệ khác để thúc đẩy tăng trưởng doanh nghiệp toàn cầu."
+  },
+  {
+    "question": "Vinova đã có bao nhiêu khách hàng?",
+    "response": "Vinova đã phục vụ hơn 250 khách hàng toàn cầu, trải dài các lĩnh vực và quốc gia khác nhau, bao gồm cả Singapore, Trung Quốc, Việt Nam, Mỹ, UAE, Úc, v.v."
+  },
+  {
+    "question": "Vinova có văn phòng ở đâu?",
+    "response": "Ngoài trụ sở tại Singapore, Vinova còn có văn phòng tại Việt Nam (Hà Nội, Đà Nẵng, TP.HCM), Thái Lan (Bangkok) và Na Uy (Oslo)."
+  },
+  {
+    "question": "Các giá trị cốt lõi của Vinova là gì?",
+    "response": "Vinova hoạt động dựa trên các giá trị: tinh thần thử thách (Challenger Spirit), đổi mới (Innovation), đồng lòng (Togetherness), liêm chính (Integrity) và tận tâm (Dedication), với mục tiêu luôn chăm sóc và thúc đẩy sự phát triển của doanh nghiệp khách hàng."
+  },
+  {
+    "question": "Vinova đã đạt được những giải thưởng gì?",
+    "response": "Vinova đã được vinh danh là một trong những công ty tăng trưởng nhanh nhất Singapore (The Straits Times 2024, 2025), thuộc nhóm High-Growth Companies Asia-Pacific (Financial Times 2024, 2025), Top 10 Mobile App Developers Singapore (Top10 Asia 2023), và nhiều giải thưởng khác."
+  },
+  {
+    "question": "Vinova có đang tuyển thực tập không?",
+    "response": "Có. Vinova đang triển khai chương trình thực tập quy mô lớn tại các văn phòng Việt Nam, nhằm tạo cơ hội cho sinh viên công nghệ trẻ được đào tạo và phát triển kỹ năng."
+  },
+  {
+    "question": "Thực tập Business Consultant tại Vinova là gì?",
+    "response": "Vị trí Business Consultant Intern hỗ trợ nhóm Presales, phân tích yêu cầu tender, phối hợp chuẩn bị đề xuất và nâng cao kỹ năng phân tích, giao tiếp, trình bày."
+  },
+  {
+    "question": "Thực tập AI Prompt Engineering gồm những gì?",
+    "response": "Thực tập AI Prompt Engineering giúp bạn học thiết kế, kiểm thử và tối ưu prompt cho mô hình AI, đánh giá kết quả đầu ra, cộng tác với kỹ sư AI, và có thể trở thành trainee nếu vượt qua kiểm duyệt."
+  },
+  {
+    "question": "Thực tập Solution Engineer là làm gì?",
+    "response": "Solution Engineer Intern tập trung nghiên cứu và phát triển prototype cho demo, hỗ trợ tender, cập nhật công nghệ mới và phát triển giải pháp sáng tạo cùng đội ngũ Presales."
+  },
+  {
+    "question": "Vinova làm việc trong môi trường như thế nào?",
+    "response": "Vinova xây dựng môi trường làm việc năng động, hợp tác, thân thiện, khuyến khích sự đổi mới và hỗ trợ nhân viên phát triển bản thân."
+  },
+  {
+    "question": "Vinova hướng tới sứ mệnh gì?",
+    "response": "Vinova đặt mục tiêu trở thành một tập đoàn công nghệ hàng đầu toàn cầu, mang đến các giải pháp với niềm đam mê và sự tận tâm vì sự phát triển của doanh nghiệp khách hàng."
+  },
+  {
+    "question": "Có những kỹ năng nào cần có khi làm việc tại Vinova?",
+    "response": "Các kỹ năng bao gồm tư duy phân tích, giao tiếp, sáng tạo, khả năng làm việc nhóm, và trong một số vị trí kỹ thuật: lập trình, hiểu AI/ML, thiết kế prompt, v.v."
+  },
+  {
+    "question": "Vinova có định hướng tuyển dụng nhân tài từ thực tập không?",
+    "response": "Vinova có cơ hội cho thực tập chuyển lên trainee hoặc nhân viên chính thức nếu thể hiện tốt trong giai đoạn thực tập và vượt qua đánh giá nội bộ."
+  },
+  {
+    "question": "Tuyển dụng về VINOVA thì sao?",
+    "category": "Tuyển dụng",
+    "response": "### 🚀 Cơ hội nghề nghiệp tại Vinova\n\n**Vinova luôn chào đón nhân tài** gia nhập đội ngũ của chúng tôi! Với **hơn 15 năm kinh nghiệm** và **250+ khách hàng toàn cầu**, chúng tôi cung cấp:\n\n🎯 **Cơ hội phát triển:**\n- Môi trường làm việc quốc tế\n- Dự án công nghệ đa dạng (AI, Blockchain, Mobile App)\n- Mentoring từ các chuyên gia\n\n💼 **Vị trí tuyển dụng:**\n- Developer (Frontend, Backend, Mobile)\n- Business Analyst, QA/QC\n- Project Manager, Business Consultant\n- Thực tập sinh các vị trí\n\n📍 **Địa điểm:** Hà Nội, Đà Nẵng, TP.HCM\n\n> **Bạn sẵn sàng gia nhập Vinova?** Khám phá các cơ hội nghề nghiệp hiện tại của chúng tôi!"
+  },
+  {
+    "question": "Vinova có hỗ trợ phát triển nghề nghiệp không?",
+    "response": "Có, Vinova cung cấp môi trường mentoring, đào tạo on-the-job, và hỗ trợ phát triển kỹ năng chuyên môn từ các chuyên gia giàu kinh nghiệm."
+  },
+  {
+    "question": "Vinova đã triển khai dự án với những ai?",
+    "response": "Vinova đã hợp tác với các thương hiệu như Samsung, Prudential, Cho Tot, Hitachi, Nestle, SingTel, OCBC Bank, MARS, Singapore Power và nhiều tên tuổi khác."
+  },
+  {
+    "question": "Vinova có dịch vụ dành cho thị trường Việt Nam?",
+    "response": "Vinova cung cấp dịch vụ mở rộng thị trường, phát triển giải pháp scaling cho Việt Nam; có hỗ trợ outsourcing từ Việt Nam sang thị trường toàn cầu."
+  },
+  {
+    "question": "Làm sao để liên hệ hoặc ứng tuyển vào Vinova?",
+    "response": "Bạn có thể gửi hồ sơ đến email hoặc ứng tuyển qua trang Careers trên website Vinova; nhóm HR sẽ liên hệ lại."
+  },
+  {
+    "question": "Vinova có hoạt động trao đổi hay hợp tác đào tạo không?",
+    "response": "Vinova đã ký MOU để triển khai chương trình trao đổi, tham quan công ty và thực tập—tạo cơ hội mở rộng cho người trẻ."
+  },
+  {
+    "question": "Vinova có văn hoá như thế nào?",
+    "response": "Vinova đề cao văn hoá cởi mở, hỗ trợ lẫn nhau, đổi mới và chất lượng cao, kết hợp phương pháp agile với quản lý giao tiếp chặt chẽ qua standup, sync, báo cáo tuần."
+  },
+  {
+    "question": "Vinova có chứng nhận gì quốc tế không?",
+    "response": "Vinova được công nhận với nhiều chứng nhận và giải thưởng quốc tế, khẳng định chất lượng và cam kết chuyên môn qua các năm."
+  },
+  {
+    "question": "Hãy giới thiệu về VINOVA?",
+    "response": "**Vinova** là một công ty công nghệ có trụ sở tại **Singapore**, được thành lập từ hơn **15 năm** trước, chuyên cung cấp các giải pháp **phần mềm toàn diện** cho khách hàng toàn cầu.\n\nChúng tôi đã phục vụ **hơn 250 khách hàng** thuộc nhiều lĩnh vực như tài chính, giáo dục, thương mại điện tử, logistics và y tế. Với đội ngũ **kỹ sư, chuyên gia công nghệ** trải dài tại Singapore, Việt Nam, Thái Lan và Na Uy, Vinova không chỉ mang lại sản phẩm chất lượng cao mà còn đảm bảo **giải pháp sáng tạo, phù hợp và hiệu quả**.\n\n> 💡 **Sứ mệnh** của Vinova là giúp doanh nghiệp **tăng trưởng bền vững** thông qua công nghệ, kết hợp **đổi mới sáng tạo** và **tận tâm phục vụ**."
+  },
+  {
+    "question": "Hãy cho tôi 5 điều tốt nhất về VINOVA",
+    "response": "Dưới đây là **5 điểm nổi bật** giúp Vinova trở thành lựa chọn tin cậy của hơn 250 khách hàng toàn cầu:\n\n1. **🌏 Mạng lưới toàn cầu** – Văn phòng tại Singapore, Việt Nam, Thái Lan và Na Uy.\n2. **🏆 Giải thưởng uy tín** – Nằm trong Top **High-Growth Companies Asia-Pacific** (Financial Times 2024, 2025).\n3. **💼 Kinh nghiệm dày dặn** – Hơn **15 năm** phát triển và triển khai giải pháp phần mềm.\n4. **👨‍💻 Đội ngũ chuyên nghiệp** – Gồm các chuyên gia về mobile app, web app, AI/ML, blockchain, IoT và ERP/CRM.\n5. **🤝 Văn hoá tận tâm** – Đề cao sự **liêm chính**, **đồng lòng** và **tinh thần đổi mới**."
+  },
+  {
+    "question": "VINOVA là công ty gì",
+    "response": "**Vinova** là công ty **tư vấn và phát triển giải pháp công nghệ thông tin** hàng đầu tại Singapore, chuyên về:\n\n- **Phát triển ứng dụng di động** 📱\n- **Phát triển website & hệ thống web** 🌐\n- **AI & Machine Learning** 🤖\n- **Blockchain & IoT** 🔗\n- **Hệ thống ERP/CRM** 🗂️\n\nVới hơn 15 năm hoạt động, Vinova đã tạo ra hàng trăm dự án thành công, hỗ trợ doanh nghiệp **tối ưu hoá hoạt động** và **tăng trưởng bền vững**."
+  },
+  {
+    "question": "VINOVA viết tắt là gì?",
+    "response": "Thực tế, **Vinova** không phải là một từ viết tắt cố định, mà là một **thương hiệu** được sáng tạo để thể hiện tinh thần **\"Innovation\"** và **\"Value\"** – nghĩa là **đổi mới** và **giá trị**. \n\n> 📌 Tên gọi này phản ánh tầm nhìn của công ty: _\"Mang đến những giải pháp công nghệ đổi mới, gia tăng giá trị cho khách hàng trên toàn cầu.\"_"
+  },
+  {
+    "question": "Hãy mô tả về VINOVA",
+    "response": "### 🏢 Tổng quan về Vinova\n**Vinova Pte. Ltd.** là một công ty công nghệ quốc tế, hoạt động tại Singapore và nhiều quốc gia, với **hơn 15 năm kinh nghiệm**.\n\n### 📊 Thành tựu nổi bật\n- **250+ khách hàng toàn cầu** 🌏\n- **15+ năm** phát triển phần mềm\n- Giải thưởng **The Straits Times Fastest Growing Companies 2024, 2025** 🏆\n- Top **High-Growth Companies Asia-Pacific** do Financial Times bình chọn\n\n### 💡 Lĩnh vực hoạt động\n- Mobile App Development\n- Web App Development\n- AI, Machine Learning\n- Blockchain, IoT\n- ERP, CRM Solutions\n\n> **Tầm nhìn:** Trở thành **tập đoàn công nghệ hàng đầu toàn cầu**, cung cấp giải pháp **sáng tạo, hiệu quả và bền vững**."
+  },
+  {
+    "question": "Slogan về VINOVA",
+    "response": "Slogan của VINOVA là **'𝐏𝐚𝐬𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐏𝐞𝐫𝐟𝐞𝐜𝐭𝐢𝐨𝐧'** thể hiện rõ **tinh thần và triết lý hoạt động** của Vinova.\n\n- **Passion (Đam mê)** 💖: Vinova luôn làm việc với **nhiệt huyết** và **tinh thần cống hiến** cao nhất trong mọi dự án.\n- **Perfection (Sự hoàn hảo)** 🌟: Mỗi sản phẩm, giải pháp đều được chú trọng **tỉ mỉ** từ khâu thiết kế, phát triển đến triển khai, nhằm mang lại **trải nghiệm tốt nhất** cho khách hàng.\n\n> 📌 Thông điệp này nhấn mạnh rằng: _\"Tại Vinova, chúng tôi không chỉ làm việc để hoàn thành dự án – chúng tôi làm việc để tạo ra **sản phẩm hoàn hảo** mà khách hàng tự hào sử dụng.\"_"
+  },
+  {
+    "question": "CEO của VINOVA",
+    "response": "CEO của VINOVA là anh **Mike Nguyễn**."
+  }
+]

@@ -1,0 +1,30 @@
+services:
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+    command: ["redis-server", "--bind", "0.0.0.0", "--protected-mode", "no"]
+  web:
+    build:
+      context: .
+    container_name: web-app
+    ports:
+      # - "13031:3001"
+      - "3001:3001"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1  
+      - FLASK_ENV=development
+      - AWS_REGION=ap-southeast-2
+      - MODEL_ID=amazon.titan-embed-text-v2:0
+      - DATA_DIR=data
+      - LLM_ID=gemini-2.5-pro
+      - MODEL_BEDROCK_ID=mistral.mistral-7b-instruct-v0:2
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - KEYCLOAK_ISSUER=https://keycloak.vinova.sg/auth/realms/resource
+      - KEYCLOAK_AUDIENCE=account
+      - JWT_SECRET_KEY=your-secret-key-here
+      # MAX_TOKENS_PER_DAY removed - now using Admin Global Settings only
+    command: flask run --host=0.0.0.0 --port=3001

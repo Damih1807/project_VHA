@@ -1,0 +1,273 @@
+
+[
+  {
+    "category": "Lương thưởng và phúc lợi",
+    "questions": [
+      "Lương cơ bản của nhân viên mới là bao nhiêu?",
+      "Cách tính lương tháng như thế nào?",
+      "Thưởng tháng 13 có được trả không?",
+      "Khi nào được tăng lương?",
+      "Lương thử việc khác lương chính thức không?",
+      "Có những phụ cấp gì?",
+      "Lương được trả vào ngày nào?",
+      "Có thưởng KPI không?",
+      "Thưởng dự án như thế nào?",
+      "Lương overtime tính ra sao?"
+    ],
+    "responses": [
+      "Theo quy định, lương cơ bản của nhân viên được quy định trong hợp đồng lao động và thỏa thuận giữa hai bên. Bạn có thể kiểm tra trong hợp đồng hoặc liên hệ phòng nhân sự để biết chi tiết.",
+      "Lương tháng được tính dựa trên lương cơ bản và các khoản khác theo quy định. Đối với nhân viên nghỉ việc trong tháng, lương được tính: (Số ngày làm việc trong tháng / Tổng số ngày trong tháng) * lương cơ bản.",
+      "Thưởng tháng 13 không được đề cập cụ thể trong tài liệu. Bạn nên liên hệ phòng Nhân sự để có thông tin chính xác nhất.",
+      "Việc tăng lương được xem xét dựa trên đánh giá hiệu suất. Công ty có quyền hoãn, giữ hoặc dừng việc tăng lương.",
+      "Tài liệu không phân biệt rõ ràng lương thử việc và lương chính thức. Tuy nhiên, nhân viên mới phải trải qua thời gian thử việc theo quy định trong thư bổ nhiệm và/hoặc hợp đồng lao động.",
+      "Phụ cấp đi lại được hoàn trả vào kỳ thanh toán lương tiếp theo nếu được người giám sát phê duyệt trước. Tài liệu không liệt kê các loại phụ cấp khác.",
+      "Tài liệu không quy định cụ thể ngày trả lương. Khoản hoàn trả chi phí đi lại sẽ được cộng vào kỳ thanh toán lương tiếp theo.",
+      "Tài liệu không đề cập đến thưởng KPI. Đánh giá hiệu suất nhằm ghi nhận các thuộc tính và thảo luận về điểm tích cực, cách tiếp cận để đạt mục tiêu liên quan đến công việc.",
+      "Tài liệu không đề cập đến thưởng dự án.",
+      "Làm thêm giờ (OT) chỉ được thực hiện khi có yêu cầu từ Công ty và có sự đồng ý của nhân viên. Các khoản chi phí làm thêm giờ phát sinh phải được Cấp trên đang giám sát hoặc trưởng phòng chấp thuận trước."
+    ]
+  },
+  {
+    "category": "Nghỉ phép và thời gian làm việc",
+    "questions": [
+      "Nghỉ phép năm có bao nhiêu ngày?",
+      "Cách đăng ký nghỉ phép như thế nào?",
+      "Nghỉ ốm có lương không?",
+      "Nghỉ thai sản bao nhiêu ngày?",
+      "Nghỉ việc riêng có lương không?",
+      "Có thể nghỉ phép nửa ngày không?",
+      "Nghỉ phép chưa dùng có được chuyển sang năm sau không?",
+      "Nghỉ lễ tết có lương không?",
+      "Nghỉ phép khẩn cấp như thế nào?",
+      "Giờ làm việc chính thức là bao nhiêu?"
+    ],
+    "responses": [
+      "Đối với nhân viên tại Singapore, làm việc đủ 12 tháng được nghỉ phép năm 14 ngày làm việc. Nhân viên tại Việt Nam, làm việc đủ 12 tháng được nghỉ phép năm 12 ngày làm việc. Nhân viên chưa đủ 12 tháng sẽ được tính nghỉ phép theo tỷ lệ số tháng làm việc.",
+      "Nhân viên cần xin nghỉ phép phải nộp đơn qua hệ thống Nghỉ phép của HR Partner (E-leave).",
+      "Nhân viên có giấy chứng nhận ốm đau từ bác sĩ công ty, nhân viên y tế hoặc bác sĩ được cấp phép sẽ được nghỉ có lương. Mức trợ cấp nghỉ ốm là 75% lương cơ sở, do Quỹ BHXH Việt Nam chi trả.",
+      "Nghỉ thai sản cho lao động nữ là 6 tháng. Trong trường hợp sinh đôi, được nghỉ thêm 30 ngày với mỗi con từ con thứ hai trở đi. Thời gian nghỉ thai sản không được vượt quá 60 ngày liên tục kể từ ngày sinh.",
+      "Nghỉ việc riêng không được đề cập cụ thể là có lương hay không. Tuy nhiên, nếu nhân viên chưa có hoặc đã dùng hết phép năm, ngày nghỉ khẩn cấp sẽ được tính là nghỉ không lương và bị trừ lương. Nghỉ không lương có thể áp dụng nếu nhân viên chưa có hoặc đã dùng hết phép năm.",
+      "Tài liệu không đề cập đến việc nghỉ phép nửa ngày.",
+      "Tối đa 6 ngày phép chưa dùng được chuyển sang năm sau và phải sử dụng trước ngày 30 tháng 6.",
+      "Các ngày nghỉ lễ tết theo quy định của Singapore và Việt Nam đều có hưởng lương. Nếu ngày lễ có hưởng lương rơi vào Chủ Nhật, sẽ được nghỉ bù vào ngày làm việc kế tiếp. Nếu rơi vào Thứ Bảy, cũng sẽ được nghỉ bù.",
+      "Nghỉ phép khẩn cấp áp dụng cho trường hợp ít hơn 5 ngày làm việc hoặc 7 ngày dương lịch, tối đa 3 ngày làm việc mỗi năm. Nghỉ khẩn cấp sẽ bị trừ vào ngày nghỉ phép hằng năm. Nếu chưa có hoặc đã dùng hết phép năm, sẽ tính là nghỉ không lương. Phải được Cấp trên đang giám sát/trưởng phòng chấp thuận qua điện thoại trong vòng 24 giờ.",
+      "Giờ làm việc thông thường tại văn phòng Singapore là từ Thứ Hai đến Thứ Sáu, 9:30 sáng - 6:30 chiều (GMT+8). Thời gian nghỉ trưa là từ 1 giờ chiều đến 2 giờ chiều (GMT+8). Giờ làm việc và ngày làm việc phải tuân theo hợp đồng lao động."
+    ]
+  },
+  {
+    "category": "Bảo hiểm xã hội",
+    "questions": [
+      "Bảo hiểm xã hội đóng bao nhiêu phần trăm?",
+      "Bảo hiểm y tế có bao nhiêu người thân?",
+      "Bảo hiểm thất nghiệp như thế nào?",
+      "Khi nào được hưởng bảo hiểm thai sản?",
+      "Bảo hiểm tai nạn lao động có không?",
+      "Thẻ bảo hiểm y tế dùng ở đâu?",
+      "Bảo hiểm xã hội một lần khi nghỉ việc?",
+      "Bảo hiểm y tế tự nguyện có không?",
+      "Bảo hiểm sức khỏe bổ sung?",
+      "Cách tra cứu bảo hiểm xã hội?"
+    ],
+    "responses": [
+      "Tài liệu không quy định cụ thể tỷ lệ đóng Bảo hiểm xã hội. Tuy nhiên, mức trợ cấp nghỉ ốm và trợ cấp chăm con sau sinh đều do Quỹ BHXH Việt Nam chi trả theo luật.",
+      "Tài liệu không đề cập đến việc bảo hiểm y tế bao gồm người thân. Nó chỉ đề cập đến việc nhân viên phải giữ thông tin cá nhân của mình bảo mật.",
+      "Tài liệu không đề cập đến bảo hiểm thất nghiệp.",
+      "Mức trợ cấp thai sản và chăm con sau sinh do Quỹ BHXH Việt Nam chi trả. Tuy nhiên, tài liệu không nêu rõ điều kiện về thời gian đóng BHXH để được hưởng bảo hiểm thai sản.",
+      "Tài liệu không đề cập đến bảo hiểm tai nạn lao động.",
+      "Tài liệu không đề cập đến việc sử dụng thẻ bảo hiểm y tế.",
+      "Tài liệu không đề cập đến việc rút bảo hiểm xã hội một lần khi nghỉ việc.",
+      "Tài liệu không đề cập đến bảo hiểm y tế tự nguyện.",
+      "Tài liệu không đề cập đến bảo hiểm sức khỏe bổ sung.",
+      "Tài liệu không cung cấp thông tin về cách tra cứu bảo hiểm xã hội."
+    ]
+  },
+  {
+    "category": "Hợp đồng lao động",
+    "questions": [
+      "Hợp đồng thử việc bao nhiêu tháng?",
+      "Hợp đồng chính thức có thời hạn không?",
+      "Điều kiện chuyển từ thử việc sang chính thức?",
+      "Khi nào được ký hợp đồng không xác định thời hạn?",
+      "Nghỉ việc cần báo trước bao nhiêu ngày?",
+      "Công ty có thể sa thải không?",
+      "Hợp đồng lao động có thể sửa đổi không?",
+      "Nghỉ việc có được trợ cấp không?",
+      "Hợp đồng lao động có cần công chứng không?",
+      "Khi nào hợp đồng lao động chấm dứt?"
+    ],
+    "responses": [
+      "Tài liệu không quy định cụ thể thời gian thử việc tối đa bằng số tháng. Thời gian thử việc được quy định trong thư bổ nhiệm và/hoặc hợp đồng lao động.",
+      "Hợp đồng lao động có thể chấm dứt bất kỳ lúc nào nếu một trong hai bên gửi thông báo bằng văn bản theo quy định trong hợp đồng lao động, không cần nêu lý do.",
+      "Sau khi hoàn thành thời gian thử việc và chứng minh hoàn thành tốt nhiệm vụ, nhân viên sẽ được xác nhận làm việc chính thức tại Công ty và được cấp 'Thư xác nhận'.",
+      "Tài liệu không đề cập đến việc ký hợp đồng không xác định thời hạn.",
+      "Trong thời gian thử việc, hợp đồng có thể bị chấm dứt bất kỳ lúc nào nếu một trong hai bên gửi thông báo bằng văn bản cho bên kia mà không cần nêu lý do, theo quy định trong hợp đồng lao động. Sau khi xác nhận chính thức, hợp đồng có thể bị chấm dứt bất kỳ lúc nào bởi một trong hai bên thông qua thông báo bằng văn bản theo thời hạn quy định trong hợp đồng lao động, không cần nêu lý do.",
+      "Công ty có thể chấm dứt hợp đồng không cần thông báo hoặc trả lương thay thế trong các trường hợp: không trung thực, sai trái hoặc cẩu thả; vi phạm nghiêm trọng hoặc liên tục các nghĩa vụ; kiếm lợi nhuận bất hợp pháp từ hoạt động Công ty.",
+      "Công ty có toàn quyền giới thiệu, sửa đổi hoặc hủy bỏ nội dung trong sổ tay này bất kỳ lúc nào để phù hợp với các quy định pháp luật hiện hành hoặc khi thấy cần thiết, và sẽ thông báo kịp thời cho nhân viên.",
+      "Tài liệu không đề cập đến việc trợ cấp khi nghỉ việc.",
+      "Tài liệu không đề cập đến việc hợp đồng lao động có cần công chứng không.",
+      "Hợp đồng lao động chấm dứt khi hết thời gian thử việc (nếu một bên thông báo) hoặc sau khi xác nhận chính thức nếu một trong hai bên gửi thông báo bằng văn bản theo thời hạn quy định trong hợp đồng. Ngoài ra, Công ty có thể chấm dứt hợp đồng ngay lập tức trong các trường hợp vi phạm nghiêm trọng."
+    ]
+  },
+  {
+    "category": "Môi trường làm việc",
+    "questions": [
+      "Văn hóa công ty như thế nào?",
+      "Cách giao tiếp với đồng nghiệp?",
+      "Quy tắc ứng xử trong công ty?",
+      "Có hoạt động team building không?",
+      "Môi trường làm việc có thân thiện không?",
+      "Cách xử lý xung đột trong công ty?",
+      "Có chính sách bảo vệ nhân viên không?",
+      "Quy định về trang phục làm việc?",
+      "Có không gian làm việc riêng không?",
+      "Chính sách về giờ giấc linh hoạt?"
+    ],
+    "responses": [
+      "Sứ mệnh của Vinova nhấn mạnh vào việc mang lại giá trị cho khách hàng, với định hướng phục vụ thị trường quốc tế. Công ty coi sự chính trực là thế mạnh, cam kết quy trình làm việc chính xác và hiệu quả. Vinova xây dựng môi trường làm việc như một gia đình gắn bó để nhân viên có thể làm việc chăm chỉ và vui vẻ.",
+      "Nhân viên phải làm việc hòa thuận với đồng nghiệp. Không được tiết lộ hoặc thảo luận thông tin cá nhân với đồng nghiệp.",
+      "Nhân viên phải hành xử đúng mực để giữ uy tín cho bản thân và Công ty. Các quy tắc cơ bản bao gồm báo cáo công việc thường xuyên và đúng giờ, làm việc đủ ngày công, tuân thủ chỉ dẫn của cấp trên, làm việc hòa thuận với đồng nghiệp, lưu tâm đến sự an toàn của bản thân và người khác, và duy trì tiêu chuẩn chất lượng cao trong hiệu suất làm việc. Vi phạm quy tắc ứng xử hoặc nội quy công ty là hành vi sai trái nhỏ.",
+      "Tài liệu không đề cập đến hoạt động team building.",
+      "Vinova xây dựng môi trường làm việc như một gia đình gắn bó để nhân viên có thể làm việc chăm chỉ và vui vẻ.",
+      "Tài liệu không đề cập cụ thể cách xử lý xung đột nội bộ. Tuy nhiên, hành vi phá hoại kỷ luật (đánh nhau, ném đồ, v.v.) là vi phạm nghiêm trọng.",
+      "Công ty cam kết thể hiện sự tôn trọng đối với nhân viên. Tuy nhiên, tài liệu không nêu rõ chính sách bảo vệ nhân viên khỏi quấy rối hay phân biệt đối xử.",
+      "Nhân viên phải ăn mặc chỉnh tề để không ảnh hưởng đến hình ảnh Công ty hoặc hiệu quả làm việc của đồng nghiệp. Nhân viên phải mặc đồng phục đúng cách trong giờ làm việc, kể cả làm thêm giờ, ngày nghỉ, ngày lễ có hưởng lương. Đồng phục phải gọn gàng, cài nút và kéo khóa đúng cách. Tóc tai nhân viên phải gọn gàng, sạch sẽ.",
+      "Tài liệu không đề cập đến không gian làm việc riêng.",
+      "Tài liệu không đề cập đến chính sách về giờ giấc linh hoạt, ngoài giờ làm việc thông thường."
+    ]
+  },
+  {
+    "category": "Đào tạo và phát triển",
+    "questions": [
+      "Có chương trình đào tạo nào không?",
+      "Cách đăng ký khóa học?",
+      "Có budget cho training không?",
+      "Chính sách về certification?",
+      "Có mentoring program không?",
+      "Career path như thế nào?",
+      "Có workshop định kỳ không?",
+      "Cách xin nghỉ để học?",
+      "Có e-learning platform không?",
+      "Chính sách về conference?"
+    ],
+    "responses": [
+      "Công ty khuyến khích nhân viên học hỏi, có tư duy tiến bộ và đưa ra những ý tưởng mới. Mục tiêu của chương trình đào tạo là nâng cao kiến thức, kỹ năng và thái độ tích cực trong công việc và cuộc sống, nhằm đảm bảo cơ hội học tập bình đẳng cho tất cả nhân viên Vinova.",
+      "Tài liệu không nêu rõ cách đăng ký khóa học.",
+      "Tài liệu không đề cập đến budget cụ thể cho training.",
+      "Tài liệu không đề cập đến chính sách về chứng chỉ (certification).",
+      "Tài liệu không đề cập đến mentoring program.",
+      "Tài liệu không đề cập đến career path chi tiết, nhưng có chính sách bổ nhiệm và thăng chức dựa trên đánh giá hiệu suất, thâm niên công tác, thành tích công tác và sự phù hợp với vị trí.",
+      "Tài liệu không đề cập đến workshop định kỳ, nhưng có các buổi nói chuyện chuyên môn và phi chuyên môn từ nội bộ và bên ngoài.",
+      "Tài liệu không đề cập đến cách xin nghỉ để học.",
+      "Tài liệu không đề cập đến e-learning platform.",
+      "Tài liệu không đề cập đến chính sách về conference."
+    ]
+  },
+  {
+    "category": "Cơ sở vật chất",
+    "questions": [
+      "Văn phòng có địa chỉ ở đâu?",
+      "Có chỗ đậu xe không?",
+      "Canteen có phục vụ ăn trưa không?",
+      "Có phòng họp không?",
+      "Internet văn phòng như thế nào?",
+      "Có phòng nghỉ ngơi không?",
+      "Máy tính được cấp như thế nào?",
+      "Có gym trong văn phòng không?",
+      "Cách đặt phòng họp?",
+      "Có dịch vụ vệ sinh văn phòng không?"
+    ],
+    "responses": [
+      "Trụ sở chính của Vinova đặt tại Singapore, cùng với 4 văn phòng chi nhánh tại Việt Nam ở TP. Hồ Chí Minh, Hà Nội và Đà Nẵng.",
+      "Tài liệu không đề cập đến chỗ đậu xe.",
+      "Tài liệu không đề cập đến canteen phục vụ ăn trưa.",
+      "Tài liệu không đề cập đến phòng họp riêng biệt, nhưng có thể suy luận có không gian làm việc.",
+      "Tài liệu không đề cập đến Internet văn phòng.",
+      "Tài liệu không đề cập đến phòng nghỉ ngơi.",
+      "Nhân viên có trách nhiệm bảo quản an toàn thiết bị làm việc của mình như máy tính, máy tính xách tay, Macbook, điện thoại di động. Công ty có quyền yêu cầu thay thế hoặc hoàn trả chi phí cho tài sản bị mất hoặc lỗi nếu không được chăm sóc hợp lý.",
+      "Tài liệu không đề cập đến gym trong văn phòng.",
+      "Tài liệu không đề cập đến cách đặt phòng họp.",
+      "Tài liệu không đề cập đến dịch vụ vệ sinh văn phòng, nhưng có quy định nhân viên không được không chăm sóc tài sản Công ty hoặc không giữ nơi làm việc sạch sẽ/ngăn nắp."
+    ]
+  },
+  {
+    "category": "Chính sách công ty",
+    "questions": [
+      "Chính sách về bảo mật thông tin?",
+      "Quy định về sử dụng mạng xã hội?",
+      "Chính sách về gift policy?",
+      "Quy định về conflict of interest?",
+      "Chính sách về whistleblowing?",
+      "Quy định về dress code?",
+      "Chính sách về remote work?",
+      "Quy định về overtime?",
+      "Chính sách về expense?",
+      "Quy định về sử dụng tài sản công ty?"
+    ],
+    "responses": [
+      "Thông tin bảo mật bao gồm hồ sơ tài chính, Nhân sự (HR), bảng lương, tài khoản, giao dịch, sản phẩm, quy trình, thông lệ, tài liệu liên quan đến Công ty. Không được tiết lộ thông tin bảo mật cho người ngoài nếu không có sự chấp thuận. Thông tin bảo mật chỉ được chia sẻ với nhân viên có nhu cầu hợp lý hoặc được phép tiếp cận. Công ty có quyền áp dụng biện pháp pháp lý hoặc đòi bồi thường nếu có hành vi sử dụng trái phép thông tin bảo mật.",
+      "Nhân viên không được đưa ra bất kỳ tuyên bố công khai nào về chính sách hoặc quyết định của Công ty, quyền riêng tư, bảo mật, lợi ích của Công ty và các đối tượng liên quan, công việc của bộ phận có thể làm hiểu nhầm chính sách của Công ty hoặc gây bối rối, hoặc các biện pháp xử lý nội bộ. Tuyên bố công khai bao gồm: báo chí, công chúng, bài giảng, phát sóng, mạng xã hội.",
+      "Tài liệu không đề cập đến gift policy, nhưng có quy định nhân viên không được kiếm lợi nhuận bằng tiền hoặc nhận thưởng (tiền mặt hoặc hiện vật) từ bất kỳ hoạt động nào của Công ty.",
+      "Nhân viên không được làm việc khác làm ảnh hưởng đến lịch trình hoặc nhiệm vụ tại Công ty, trừ khi có sự cho phép rõ ràng từ Công ty. Nhân viên không được làm việc cá nhân hoặc hợp tác cạnh tranh với Công ty. Nhân viên phải tiết lộ bất kỳ lợi ích cá nhân nào trong khách hàng hoặc nhà cung cấp, bao gồm cổ phần. Không được để vấn đề cá nhân gây xung đột với nhiệm vụ tại Công ty.",
+      "Tài liệu không đề cập đến chính sách whistleblowing.",
+      "Nhân viên phải ăn mặc chỉnh tề để không ảnh hưởng đến hình ảnh Công ty hoặc hiệu quả làm việc của đồng nghiệp. Nhân viên phải mặc đồng phục đúng cách trong giờ làm việc, kể cả làm thêm giờ, ngày nghỉ, ngày lễ có hưởng lương. Đồng phục phải gọn gàng, cài nút và kéo khóa đúng cách. Tóc tai nhân viên phải gọn gàng, sạch sẽ.",
+      "Tài liệu không đề cập đến chính sách remote work.",
+      "Làm thêm giờ (OT) chỉ được thực hiện khi có yêu cầu từ Công ty và có sự đồng ý của nhân viên. Nhân viên không được từ chối làm thêm giờ một cách vô lý nếu không có lý do chính đáng. Bất kỳ yêu cầu làm thêm giờ nào cũng phải được Cấp trên đang giám sát (Supervisor) hoặc trưởng phòng chấp thuận trước.",
+      "Tất cả yêu cầu hoàn trả chi phí phải được nộp cho bộ phận Tài chính trước ngày 15 của tháng kế tiếp và phải thực hiện qua hệ thống e-Claim (HRPartner). Yêu cầu hoàn trả phải được phê duyệt bởi Cấp trên đang giám sát, Trưởng phòng hoặc bộ phận Tài chính và kèm theo biên lai hợp lệ, danh mục chi phí kinh doanh, và mô tả chi tiết.",
+      "Mọi hồ sơ và tập tin là tài sản của Công ty, không được mang ra khỏi công ty nếu không có sự chấp thuận. Nhân viên phải đảm bảo an ninh và lưu giữ an toàn tài liệu của Công ty. Nhân viên có trách nhiệm bảo quản an toàn thiết bị làm việc của mình như máy tính, máy tính xách tay, Macbook, điện thoại di động. Công ty có quyền yêu cầu nhân viên thay thế hoặc hoàn trả chi phí cho tài sản bị mất hoặc lỗi nếu không được chăm sóc hợp lý."
+    ]
+  },
+  {
+    "category": "Quy trình làm việc",
+    "questions": [
+      "Quy trình xin nghỉ phép như thế nào?",
+      "Cách báo cáo công việc?",
+      "Quy trình approval cho dự án?",
+      "Cách đặt lịch meeting?",
+      "Quy trình xử lý khiếu nại?",
+      "Cách submit timesheet?",
+      "Quy trình review performance?",
+      "Cách xin budget cho dự án?",
+      "Quy trình onboarding?",
+      "Cách offboarding khi nghỉ việc?"
+    ],
+    "responses": [
+      "Để xin nghỉ phép, nhân viên phải nộp đơn qua hệ thống Nghỉ phép của HR Partner (E-leave). Thời gian thông báo trước tùy thuộc vào số ngày vắng mặt. Trong trường hợp vắng mặt đột xuất, phải xin phép qua điện thoại hoặc email với Cấp trên đang giám sát (Supervisor) VINOVA hoặc Phòng nhân sự (HR).",
+      "Nhân viên phải báo cáo công việc thường xuyên và đúng giờ. Tài liệu không mô tả chi tiết cách thức báo cáo công việc.",
+      "Tài liệu không đề cập đến quy trình approval cho dự án.",
+      "Tài liệu không đề cập đến cách đặt lịch meeting.",
+      "Mục tiêu của chính sách kỷ luật là sửa chữa hành vi sai trái và thói quen làm việc không đạt yêu cầu. Quy trình xử lý hành vi sai trái nhỏ bao gồm thảo luận miệng và cảnh cáo bằng lời nói. Đối với hành vi vi phạm nghiêm trọng, Công ty có thể áp dụng cảnh cáo, đình chỉ, hoãn/giữ/dừng tăng lương, hạ/giáng cấp hoặc chấm dứt việc làm.",
+      "Tài liệu không đề cập đến cách submit timesheet.",
+      "Đánh giá hiệu suất và họp lập kế hoạch nhằm để giám sát và nhân viên thảo luận về nhiệm vụ công việc hiện tại. Đánh giá hiệu suất nhằm ghi nhận các thuộc tính và thảo luận về điểm tích cực, cách tiếp cận để đạt mục tiêu liên quan đến công việc. Nhân viên và Cấp trên đang giám sát (Supervisor) cùng thảo luận về cách đạt được mục tiêu hoặc học kỹ năng mới.",
+      "Tài liệu không đề cập đến cách xin budget cho dự án.",
+      "Tài liệu không đề cập cụ thể quy trình onboarding, nhưng có đề cập nhân viên mới được bổ nhiệm phải trải qua thời gian thử việc kể từ ngày bổ nhiệm theo quy định trong thư bổ nhiệm và/hoặc hợp đồng lao động.",
+      "Trước khi chấm dứt hợp đồng, nhân viên phải tham dự buổi phỏng vấn thôi việc do Phòng nhân sự (HR) tiến hành. Nhân viên phải trả lại toàn bộ tài sản của Công ty vào ngày làm việc cuối cùng cho Cấp trên đang giám sát (Supervisor) hoặc trưởng bộ phận (HOD). Công ty có quyền yêu cầu nhân viên bồi thường hoặc thay thế tài sản bị mất hoặc hư hỏng khi trả lại."
+    ]
+  },
+  {
+    "category": "Hỗ trợ và tư vấn",
+    "questions": [
+      "Có IT support không?",
+      "Cách liên hệ HR?",
+      "Có employee assistance program không?",
+      "Cách xin tư vấn pháp lý?",
+      "Có health check định kỳ không?",
+      "Cách báo cáo sự cố?",
+      "Có mental health support không?",
+      "Cách xin tư vấn career?",
+      "Có financial advisory không?",
+      "Cách liên hệ emergency contact?"
+    ],
+    "responses": [
+      "Tài liệu không đề cập cụ thể về IT support. Tuy nhiên, nhân viên được cấp chìa khóa văn phòng phải giữ an toàn và người rời văn phòng cuối cùng phải đảm bảo tất cả các cửa đã được khóa, hệ thống báo động được kích hoạt và các thiết bị điện không cần thiết đã được tắt. Nhân viên có trách nhiệm bảo quản an toàn thiết bị làm việc của mình như máy tính, máy tính xách tay, Macbook, điện thoại di động.",
+      "Nhân viên có thể yêu cầu cấp trên hoặc phòng Nhân sự (HR) giải thích các nội dung trong sổ tay. Mọi yêu cầu về thông tin Nhân sự (HR) phải gửi đến Phòng nhân sự (HR). Chỉ Phòng nhân sự (HR) có quyền tiết lộ thông tin nhân viên hiện tại hoặc cũ. Yêu cầu cung cấp thông tin tham khảo phải gửi đến Phòng nhân sự (HR).",
+      "Tài liệu không đề cập đến employee assistance program.",
+      "Tài liệu không đề cập đến cách xin tư vấn pháp lý.",
+      "Tài liệu không đề cập đến health check định kỳ.",
+      "Nhân viên phải báo cáo ngay điều kiện không an toàn cho người giám sát. Trong trường hợp tai nạn dù nhẹ hoặc cần chăm sóc y tế do tai nạn/bệnh trong khi làm việc, nhân viên phải báo ngay cho người giám sát/quản lý.",
+      "Tài liệu không đề cập đến mental health support.",
+      "Tài liệu không đề cập đến cách xin tư vấn career.",
+      "Tài liệu không đề cập đến financial advisory.",
+      "Tài liệu không đề cập đến cách liên hệ emergency contact."
+    ]
+  }
+]
